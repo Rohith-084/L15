@@ -4,4 +4,5 @@ void main(){
 	printf("Sum is : %d",a+b);
 	printf("Difference is : %d",a-b);
 	printf("Product is : %d",a*b);
+	printf("Division is : %d",a/b);
 }
