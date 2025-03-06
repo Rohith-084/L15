@@ -1,6 +1,6 @@
 #incluse<stdio.h>
 void main(){
-	int a=10,b=20;
+	int a=100,b=40;
 	printf("Sum is : %d",a+b);
 	printf("Difference is : %d",a-b);
 	printf("Product is : %d",a*b);
